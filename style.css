@@ -1,0 +1,17 @@
+span{
+  color: rgb(0, 255, 213);
+}
+
+h1{
+  text-align: center;
+}
+
+.decor li{
+  list-style-type: none;
+}
+
+.decor li:before{
+  content: "§ ";
+}
+
+
